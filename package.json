@@ -1,0 +1,14 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "Advanced React",
+  "main": "lib/server.js",
+  "repository": "https://github.com/kashifakram/advanced-react",
+  "author": "Kashif Akram",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.20.0",
+    "eslint-plugin-react": "^7.30.1"
+  }
+}
